@@ -5,11 +5,12 @@ font-weight:400;
 }
 
 </*banner name at */
-h1 {
+#name {
   color:#33485e;
   text-transform:uppercase;
   text-align:center;
   font-size:3em;
+  border-bottom: 1px solid #33485e; 
 }
 
 /*current job title*/
