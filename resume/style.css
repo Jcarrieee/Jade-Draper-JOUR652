@@ -24,10 +24,11 @@ font-weight:400;
   text-transform:uppercase;
   text-align:center;
   font-size:3em;
-  border-bottom:1px solid #33485e;
+  border-bottom:2px solid #33485e;
   width:60%;
   min-width:300px;
   margin:0 auto;
+}
 
 /*current job title*/
 strong {
@@ -114,3 +115,7 @@ ul {
     margin-left:0;
     margin-right:0;
   }
+#currently {
+  text-align:center;
+  font-weight:bold;
+}
