@@ -43,7 +43,7 @@ strong {
   text-align:center;
 }
   /*menu items*/
-  .menu-item {
+  .menu li {
     display: inline;
   }
 /* headings*/
