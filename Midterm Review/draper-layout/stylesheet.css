@@ -1,0 +1,81 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+text-align:center;
+font-style: italic;
+}
+
+h1 {
+  font-family:Helvetica, sans-serif;
+  font-size:20px;
+  font-weight:600;
+  text-align:center;
+  margin-top:20px;
+  margin-bottom:0;
+  margin-left:10;
+  margin-right:10;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:20px;
+  margin-bottom:15px;
+  width: 50%;
+}
+center {
+  font-family: Georgia, serif;
+  font-size:11px;
+  font-style:italic;
+  margin-top:0;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size:13px;
+  margin: 15px 175px;
+}
+
+blockquote {
+font: 24px normal helvetica, sans-serif;
+font-style: italic;
+font-weight:500;
+margin-top: 15px;
+margin-bottom: 15px;
+color: red;
+margin-left: 10px;
+padding-left: 8px;
+text-align: center;
+}
+
+cite {
+  font: 20px Georgia, serif;
+  text-align: center;
+  color: black;
+  font-weight:150;
+  font-style:italic;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-size:15px;
+  font-weight:100;
+  text-align: center;
+  margin-top:30px;
+}
+
+li {
+  text-align: center;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
