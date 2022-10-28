@@ -3,6 +3,7 @@
   width: 900px;
 }
 
+/*Headline*/
 h1 {
   font-family:"Times New Roman", serif;
   font-size:17px;
@@ -13,7 +14,7 @@ h1 {
   margin-left:10;
   margin-right:10;
 }
-
+/*Subheadings*/
 h2 {
   font-family:"Times New Roman", serif;
   font-size:14px;
@@ -21,6 +22,7 @@ h2 {
   text-align:Center;
 
 }
+
 
 #byline {
 font-family: Helvetica, sans-serif;
@@ -34,8 +36,15 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top:20px;
-  margin-bottom:15px;
+  margin-bottom:10px;
   width: 50%;
+}
+/*Captions*/
+center {
+  font-family: "Times New Roman", serif;
+  font-size:10px;
+  font-style:italic;
+  margin-top:0;
 }
 
 p {
