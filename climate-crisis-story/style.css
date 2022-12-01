@@ -1,15 +1,16 @@
 
 /* Nav-Top*/
 .nav-top {
-  color:white;
+  color:#ffffff;
   margin: 0 auto;
-  height: 50;
   text-transform:uppercase;
   font-weight: 700;
+  text-decoration-color: #fff;
 }
 
 .red {
   color:#f23030;
+  font-weight: bold;
 }
 
 /* Splash Area*/
@@ -22,18 +23,22 @@
 .hero-image {
   width: 100%;
 }
-.overlay {
-  position:center;
-  width:75%;
 
+.overlay {
+  position:absolute;
+  top:0;
+  width:100%;
+  background-color:#ffffff;
+  opacity:.7;
 }
 
 .hero-head {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Garamond', serif;
   font-size:6em;
-  color:#fff;
+  color: #000000;
   margin:0 auto;
   padding-bottom:10px;
+  font-weight: bold;
 }
 
 .hero-sub {
