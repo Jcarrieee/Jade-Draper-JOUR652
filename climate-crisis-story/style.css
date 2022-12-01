@@ -1,8 +1,9 @@
 
 /* Nav-Top*/
 .nav-top {
-  color:#fff;
+  color:white;
   margin: 0 auto;
+  height: 50;
   text-transform:uppercase;
   font-weight: 700;
 }
