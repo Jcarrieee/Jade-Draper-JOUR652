@@ -1,0 +1,201 @@
+
+
+
+/* Nav-Top*/
+.nav-top {
+  color:#ffffff;
+  margin: 0 auto;
+  font-family: 'Georgia', serif;
+  font-weight: 700;
+  text-decoration-color: #fff;
+  font-size: 1em;
+  text-align: center;
+}
+
+.overlay {
+  position:absolute;
+  top:3%;
+  width:60%;
+  background-color:#000000;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.hero-hed {
+  font-family: 'Georgia', serif;
+  font-size: 1.5em;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.hero-sub {
+  font-family: 'Georgia', serif;
+  font-size: 0.5em;
+  color: #ffffff;
+  font-weight: 300;
+}
+
+
+.red {
+  color:#f23030;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1075px;
+
+}
+
+/* Splash Area*/
+.hero-container {
+  position:relative;
+  text-align:center;
+  color:#fff;
+}
+
+.hero-image {
+  width: 100%;
+}
+
+
+.hero-sub {
+  font-family: 'Montserrat', sans-serif;
+  font-size:0.9em;
+  text-align: center;
+}
+
+/*Pull Quote */
+  .quote {
+
+    font-family: 'Montserrat', sans-sans-serif;
+  font-size:3em;
+  color:#f000000;
+  font-weight:700;
+  text-align:center;
+  padding: 15px 0 15px 0;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+.quote-attribution {
+  font-size:.3em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:100;
+  text-align:center;
+  color:#000;
+}
+
+.text-box {
+font-family: 'Georgia', serif;
+border: solid 4px;
+border-color: #FFA500;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+.text-box-title {
+  font-weight: 600;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.text-box-intro-text {
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-box-text {
+font-size: .8em
+list-style: none;
+text-align: center;
+}
+
+.text-box-source-text {
+font-size: .7em;
+text-align: center;
+}
+
+/*End Pull Quote*/
+/* Media Queries*/
+@media (max-width:700px) {
+  .hero-head {
+    font-size:1.5em;
+  }
+}
+
+#headline {
+  font-size: 2.5em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  padding-top: 30px;
+  text-transform: uppercase;
+}
+
+#byline{
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+p {
+  text-family: 'Montserrat', sans-serif;
+  line-height: 180%;
+  font-size: 1.5em;
+  margin-bottom: 30px;
+}
+
+h2 {
+  text-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 15px;
+  padding-top: 20px;
+  color:#FFA500;
+
+}
+
+img {
+    positon: absolute;
+    width: 100%;
+}
+
+
+center {
+font-family: 'Montserrat', serif;
+font-size:1em;
+font-style:italic;
+margin-top: 0;
+margin-bottom: 20px;
+}
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+footer {
+  font-family: 'Montserrat', serif;
+  text-align: center;
+  padding: 3px;
+  background-color: Black;
+  color: white;
+  font-size: 0.5em;
+  font-style: italic;
+}
