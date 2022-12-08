@@ -5,7 +5,7 @@
 .nav-top {
   color:#ffffff;
   margin: 0 auto;
-  font-family: 'Georgia', serif;
+  font-family: 'Garamond', serif;
   font-weight: 700;
   text-decoration-color: #fff;
   font-size: 1em;
@@ -22,17 +22,17 @@
 }
 
 .hero-hed {
-  font-family: 'Georgia', serif;
+  font-family: 'Garamond', serif;
   font-size: 1.5em;
   color: #ffffff;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .hero-sub {
-  font-family: 'Georgia', serif;
-  font-size: 0.5em;
+  font-family: 'Helvetica', serif;
+  font-size: 0.2em;
   color: #ffffff;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 
@@ -63,7 +63,7 @@
 
 
 .hero-sub {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size:0.9em;
   text-align: center;
 }
@@ -71,7 +71,7 @@
 /*Pull Quote */
   .quote {
 
-    font-family: 'Montserrat', sans-sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size:3em;
   color:#f000000;
   font-weight:700;
@@ -83,14 +83,14 @@
 
 .quote-attribution {
   font-size:.3em;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-weight:100;
   text-align:center;
   color:#000;
 }
 
 .text-box {
-font-family: 'Georgia', serif;
+font-family: 'Garamond', serif;
 border: solid 4px;
 border-color: #FFA500;
 padding-left: 150px;
@@ -128,38 +128,50 @@ text-align: center;
 }
 
 #headline {
+  font-family: 'Garamond', serif;
   font-size: 2.5em;
-  font-weight: 700;
+  font-weight: 900;
   text-align: center;
-  font-family: 'Georgia', serif;
   padding-top: 30px;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 #byline{
   font-size: 1em;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   text-transform: uppercase;
   text-align: center;
   padding-bottom: 50px;
 }
 
 p {
-  text-family: 'Montserrat', sans-serif;
+  text-family: 'Helvetica', sans-serif;
   line-height: 180%;
   font-size: 1.5em;
   margin-bottom: 30px;
 }
 
-h2 {
-  text-family: 'Montserrat', sans-serif;
-  font-size: 2em;
-  font-weight: 500;
-  text-align: left;
-  padding-bottom: 15px;
-  padding-top: 20px;
-  color:#FFA500;
 
+
+/*Pull Quote */
+  .quote {
+
+  font-family: 'Helvetica', sans-serif;
+  font-size:2.3em;
+  color:#00ced1;
+  font-weight:700;
+  text-align:center;
+  padding: 15px 0 15px 0;
+  margin-top:45px;
+  margin-bottom: 45px;
+}
+
+.quote-attribution {
+  font-size:.4em;
+  font-family: 'Helvetica', sans-serif;
+  font-weight:100;
+  text-align:center;
+  color:#000;
 }
 
 img {
@@ -169,7 +181,7 @@ img {
 
 
 center {
-font-family: 'Montserrat', serif;
+font-family: 'Helvetica', sans-serif;
 font-size:1em;
 font-style:italic;
 margin-top: 0;
@@ -191,9 +203,9 @@ a:hover {
 }
 
 footer {
-  font-family: 'Montserrat', serif;
+  font-family: 'Helvetica', sans-serif;
   text-align: center;
-  padding: 3px;
+  padding: 2px;
   background-color: Black;
   color: white;
   font-size: 0.5em;
